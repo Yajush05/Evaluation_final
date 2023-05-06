@@ -1,6 +1,6 @@
 public class Main {
   public static void main(String[] args) {
-    String dob = "01/01/2000";
-    System.out.println("5 Dec 2002" + dob);
+    String dob = "05/12/2002";
+    System.out.println("my birthday is" + dob);
   }
 }
